@@ -1,0 +1,19 @@
+{
+    "author":"sreekar",
+    "name":"nodejstvpss",
+    "version":"0.1.1",
+    "main":"abd",
+    "description":"Mathematical operations",
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    },
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/tvps-sreekar/nodejstvpss"
+    },
+    "keywords": [
+        "add","subtract","multiply","divide"
+    ]
+
+}
